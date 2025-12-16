@@ -1,0 +1,7 @@
+Read a list from user and create a frequency dictionary of the given list. ie, key will be the element of list, value will be the count of the respective element
+
+input: ['a','b','a','c','b','b','d']
+output: {'a':2,'b':3,'c':1,'d':1}
+
+input: [101,101,101,203,102,105,105,203]
+output: {101:3,102:1,203:2,105:2}
