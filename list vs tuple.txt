@@ -1,0 +1,13 @@
+List
+----
+Mutable
+Uses square brackets
+Higher memory usage
+Slower Access
+
+Tuple
+-----
+Immutable
+Uses parenthesis
+Lesser memory usage
+Faster Access
